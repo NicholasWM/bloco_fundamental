@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bloco_fundamental/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bloco_fundamental/static/js/main.9833cbdc.chunk.js",
+    "main.js.map": "/bloco_fundamental/static/js/main.9833cbdc.chunk.js.map",
+    "runtime-main.js": "/bloco_fundamental/static/js/runtime-main.31f1a2a4.js",
+    "runtime-main.js.map": "/bloco_fundamental/static/js/runtime-main.31f1a2a4.js.map",
+    "static/js/2.a8c0f2d8.chunk.js": "/bloco_fundamental/static/js/2.a8c0f2d8.chunk.js",
+    "static/js/2.a8c0f2d8.chunk.js.map": "/bloco_fundamental/static/js/2.a8c0f2d8.chunk.js.map",
+    "index.html": "/bloco_fundamental/index.html",
+    "precache-manifest.2f602a94ee49685aea1b42c571fdc04a.js": "/bloco_fundamental/precache-manifest.2f602a94ee49685aea1b42c571fdc04a.js",
+    "service-worker.js": "/bloco_fundamental/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/bloco_fundamental/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a8c0f2d8.chunk.js.LICENSE.txt": "/bloco_fundamental/static/js/2.a8c0f2d8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bloco_fundamental/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31f1a2a4.js",
+    "static/js/2.a8c0f2d8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9833cbdc.chunk.js"
+  ]
+}
