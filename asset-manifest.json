@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/bloco_fundamental/static/js/main.821b8670.chunk.js",
-    "main.js.map": "/bloco_fundamental/static/js/main.821b8670.chunk.js.map",
+    "main.js": "/bloco_fundamental/static/js/main.11939e0f.chunk.js",
+    "main.js.map": "/bloco_fundamental/static/js/main.11939e0f.chunk.js.map",
     "runtime-main.js": "/bloco_fundamental/static/js/runtime-main.752978ec.js",
     "runtime-main.js.map": "/bloco_fundamental/static/js/runtime-main.752978ec.js.map",
     "static/js/2.42930db0.chunk.js": "/bloco_fundamental/static/js/2.42930db0.chunk.js",
     "static/js/2.42930db0.chunk.js.map": "/bloco_fundamental/static/js/2.42930db0.chunk.js.map",
     "index.html": "/bloco_fundamental/index.html",
-    "precache-manifest.4d7327f0f84f037437a20970539bbacf.js": "/bloco_fundamental/precache-manifest.4d7327f0f84f037437a20970539bbacf.js",
+    "precache-manifest.131c397fbaf7566b62a3784deb36f810.js": "/bloco_fundamental/precache-manifest.131c397fbaf7566b62a3784deb36f810.js",
     "service-worker.js": "/bloco_fundamental/service-worker.js",
     "static/js/2.42930db0.chunk.js.LICENSE.txt": "/bloco_fundamental/static/js/2.42930db0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.752978ec.js",
     "static/js/2.42930db0.chunk.js",
-    "static/js/main.821b8670.chunk.js"
+    "static/js/main.11939e0f.chunk.js"
   ]
 }
