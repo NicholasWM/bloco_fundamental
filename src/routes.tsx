@@ -5,7 +5,7 @@ export default function Routes() {
     return (
         <BrowserRouter>
             <Switch>
-                <Route path='/markdown' component={HomePage}/>
+                <Route path='/' component={HomePage}/>
             </Switch>
         </BrowserRouter>
     )
